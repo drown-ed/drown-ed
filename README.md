@@ -1,4 +1,10 @@
-### Hi there 👋
+### drown-ed 
+
+#### Skills
+- C, Java, Python
+
+#### Education
+- 2016.03 - 2020.02 Bachelor of Multimedia Enginnering  
 
 <!--
 **drown-ed/drown-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
