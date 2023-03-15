@@ -7,7 +7,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=drown-ed&theme=graywhite&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <img height="20%" width="40%" src ="https://novatorem-9zb39if7e-drown-ed.vercel.app/api/spotify"><br>
+  <img height="20%" width="35%" src ="https://novatorem-9zb39if7e-drown-ed.vercel.app/api/spotify"><br>
 </p>
 
   
